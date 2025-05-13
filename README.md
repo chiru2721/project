@@ -1,1 +1,1 @@
-connecting git_hub to git
+how to connect git_hub to git
